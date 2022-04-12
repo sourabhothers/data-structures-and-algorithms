@@ -7,6 +7,8 @@
 - array.concat = O(N)
 - array.shift = O(N)
 - array.unshift = O(N)
+- array.splice = O(N)
+- array.slice = O(N)
 
 - array.push = O(1)
 - array.pop = O(1)
